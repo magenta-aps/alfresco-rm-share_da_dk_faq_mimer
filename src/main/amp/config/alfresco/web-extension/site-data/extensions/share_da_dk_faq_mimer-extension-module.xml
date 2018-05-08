@@ -1,0 +1,17 @@
+<extension>
+    <modules>
+        <module>
+            <id>MidtX FAQ Extension</id>
+            <version>1.0</version>
+            <auto-deploy>true</auto-deploy>
+
+            <customizations>
+                <customization>
+                    <targetPackageRoot>org.alfresco</targetPackageRoot>
+                    <sourcePackageRoot>dk.magenta.share_da_dk_faq_mimer</sourcePackageRoot>
+                </customization>
+            </customizations>
+
+        </module>
+    </modules>
+</extension>
